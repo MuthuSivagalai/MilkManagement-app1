@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+milk_delivery.db
+.streamlit/secrets.toml 
